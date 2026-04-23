@@ -7,8 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: "/Recipe-Book-Solution/",
-  build: {
-    outDir: 'docs'
-  }
+  base: "/Recipe-Book-Solution/"
 })
